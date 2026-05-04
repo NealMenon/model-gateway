@@ -1,4 +1,14 @@
 .env
 *.env.local
 
+/model-gateway
+/bin/
+/dist/
+*.exe
+*.test
+*.out
+
+.vscode/
+*.swp
+
 .DS_Store
